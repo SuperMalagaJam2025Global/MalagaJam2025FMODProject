@@ -1,0 +1,4 @@
+.*
+!.gitignore
+[Aa]ssets/
+![Aa]ssets/.empty
