@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{89558838-8423-4b84-befe-936190953a76}">
+		<property name="name">
+			<value>tiempoooo</value>
+		</property>
+		<relationship name="folder">
+			<destination>{0cad53ba-94e3-4e16-a711-cab1f58bf1a5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d48e0b30-ae84-4795-8556-59b37c026e7f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d48e0b30-ae84-4795-8556-59b37c026e7f}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>normal</value>
+			<value>poco</value>
+			<value>Value C</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
