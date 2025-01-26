@@ -703,6 +703,9 @@
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{23c919ed-314d-4e9d-b1af-10d41c924a22}">
+		<property name="triggerProbabilityEnabled">
+			<value>true</value>
+		</property>
 		<property name="triggerProbability">
 			<value>80</value>
 		</property>
@@ -983,6 +986,9 @@
 		</property>
 	</object>
 	<object class="SingleSound" id="{1aec6bd7-8457-4561-9c42-6f7e58e7d36f}">
+		<property name="triggerProbabilityEnabled">
+			<value>true</value>
+		</property>
 		<property name="triggerProbability">
 			<value>41</value>
 		</property>
@@ -1069,6 +1075,9 @@
 		</property>
 	</object>
 	<object class="SingleSound" id="{8fb2c644-b741-4439-9721-d5a92f2dc390}">
+		<property name="triggerProbabilityEnabled">
+			<value>true</value>
+		</property>
 		<property name="triggerProbability">
 			<value>69.5</value>
 		</property>
